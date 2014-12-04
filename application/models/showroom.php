@@ -12,7 +12,7 @@
 
  		public function set_showroom_name($name)
  		 {
-
+$san="sandyp";
 		    	$this->showroom_name = trim($name);
 
 				if($name == '') {
